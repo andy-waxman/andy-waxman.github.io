@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>circuitpython on Andy Waxman</title>
+    <link>https://andy-waxman.github.io/tags/circuitpython/</link>
+    <description>Recent content in circuitpython on Andy Waxman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Mar 2022 12:00:00 +0000</lastBuildDate><atom:link href="https://andy-waxman.github.io/tags/circuitpython/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Downloading and displaying images in a PyPortal with CircuitPython</title>
+      <link>https://andy-waxman.github.io/blog/downloadinganddisplayingimagesonpyportal/</link>
+      <pubDate>Fri, 25 Mar 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://andy-waxman.github.io/blog/downloadinganddisplayingimagesonpyportal/</guid>
+      <description>Intro </description>
+    </item>
+    
+  </channel>
+</rss>

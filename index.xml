@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Andy Waxman</title>
+    <link>https://andy-waxman.github.io/</link>
+    <description>Recent content in Home on Andy Waxman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Mar 2022 15:00:28 +0000</lastBuildDate><atom:link href="https://andy-waxman.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multiviewer for ArcGIS: Frost &amp; Sullivan Customer Value Enhancement Award in the Geotechnologies</title>
+      <link>https://andy-waxman.github.io/publications/multiviewerforarcgis/</link>
+      <pubDate>Thu, 15 Jul 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://andy-waxman.github.io/publications/multiviewerforarcgis/</guid>
+      <description>MultiViewer provides powerful synchronized visualization of multi-source and multi-temporal geospatial content. Previously, such capabilities required highly specialized image processing software and training. MultiViewer is currently available for web deployment as an add-on to Maplicity (MultiViewer On-Line), for desktop GIS implementations as a plug-in for industry standard mapping/GIS software (MultiViewer for ESRI&amp;rsquo;s ArcGIS), or as part of a custom solution (MultiViewer Custom).</description>
+    </item>
+    
+    <item>
+      <title>USGS Map-On-Line: Interactive Maps for the Greater San Francisco Bay Area</title>
+      <link>https://andy-waxman.github.io/publications/usgsmapsonline/</link>
+      <pubDate>Sun, 01 Sep 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://andy-waxman.github.io/publications/usgsmapsonline/</guid>
+      <description>A multiresolution, multisource image composite representing the geospatial content available for the San Francisco Bay Area via the US Geological Survey.</description>
+    </item>
+    
+    <item>
+      <title>Lewis and Clark Expedition 200th Anniversary Mosiac</title>
+      <link>https://andy-waxman.github.io/publications/lewisandclarkexpedition/</link>
+      <pubDate>Mon, 15 Jul 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://andy-waxman.github.io/publications/lewisandclarkexpedition/</guid>
+      <description>Map created in conjunction with David Rumsey Map Collection, Cartography Associates celebrating the 200th anniversary of the Lewis and Clark Expepdition by merging multiple data sources for different time periods.</description>
+    </item>
+    
+    <item>
+      <title>Maplicity for ArcIMS</title>
+      <link>https://andy-waxman.github.io/publications/maplicityforarcims/</link>
+      <pubDate>Fri, 06 Jul 2001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andy-waxman.github.io/publications/maplicityforarcims/</guid>
+      <description>Maplicity offers powerful interactive mapping, image analysis, and visualization capabilities to an unlimited number of web browser users accessing an organization&amp;rsquo;s Internet Geographic Information System (GIS). Designed as an affordable add-on to ESRI&amp;rsquo;s ArcIMS map server solution.</description>
+    </item>
+    
+    <item>
+      <title>ArcIMS 3.0 -- An Application Developers Perspective.</title>
+      <link>https://andy-waxman.github.io/publications/arcimsadevelopersperspective/</link>
+      <pubDate>Tue, 15 May 2001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andy-waxman.github.io/publications/arcimsadevelopersperspective/</guid>
+      <description>An article in Spatial News going over how ArcIMS 3.0 worked and the connectors ESRI delivered out of the box with it.</description>
+    </item>
+    
+    <item>
+      <title>Satellite Imagery as Data Source</title>
+      <link>https://andy-waxman.github.io/publications/satelliteimageryasdata/</link>
+      <pubDate>Mon, 01 Sep 1997 00:00:00 +0000</pubDate>
+      
+      <guid>https://andy-waxman.github.io/publications/satelliteimageryasdata/</guid>
+      <description>A merge of Landat TM and SPOT Panchromatic image, used to create an image, and SPOT stereopairs used to create a DEM which was used to create topo and drainage maps.</description>
+    </item>
+    
+    <item>
+      <title>Formations Vegetales el Domaine Forestiers</title>
+      <link>https://andy-waxman.github.io/publications/madagascar/</link>
+      <pubDate>Sun, 01 Sep 1996 00:00:00 +0000</pubDate>
+      
+      <guid>https://andy-waxman.github.io/publications/madagascar/</guid>
+      <description>A vegetation and protected areas map of Madagascar created through a collaboration of Conservation International and several Malagasy government agencies.</description>
+    </item>
+    
+    <item>
+      <title>Downloading and displaying images in a PyPortal with CircuitPython</title>
+      <link>https://andy-waxman.github.io/blog/downloadinganddisplayingimagesonpyportal/</link>
+      <pubDate>Fri, 25 Mar 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://andy-waxman.github.io/blog/downloadinganddisplayingimagesonpyportal/</guid>
+      <description>Intro </description>
+    </item>
+    
+    <item>
+      <title>Converting Image Formats with Python and Azure Functions</title>
+      <link>https://andy-waxman.github.io/blog/convertingimageswithazureandpython/</link>
+      <pubDate>Tue, 22 Mar 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://andy-waxman.github.io/blog/convertingimageswithazureandpython/</guid>
+      <description>Intro </description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://andy-waxman.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andy-waxman.github.io/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+  </channel>
+</rss>
