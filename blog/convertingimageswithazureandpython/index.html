@@ -119,6 +119,10 @@
     </div>
     <div>
     	<h2 id="intro">Intro</h2>
+<p>I have a <a href="https://www.adafruit.com/product/4116">PyPortal</a> that came as part of <a href="https://www.adafruit.com/adabox011">AdaBox 011</a>. With the combination of a nice screen and WIFI I am going to use it to display images from the <a href="https://epic.gsfc.nasa.gov/">NASA Earth Polychromatic Imaging Camera</a>. I plan to download and display the images in an animated fashion.</p>
+<p>I use an <a href="https://azure.microsoft.com/en-us/services/functions/#overview">Azure Function</a> written in Python to that will crop and scale the image before delivering it to the PyPortal as a bitmap. The PyPortal saves and image and then adds it to the animation loop.</p>
+<p><a href="https://python-pillow.org/">Pillow</a> does the bulk of the image processing, all of the rest comes with Python.</p>
+<p>All the code is found <a href="https://github.com/andy-waxman/nasa_epic_azure">here</a></p>
 
 	    
 	</div>
